@@ -1,0 +1,19 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.container{
+	height: 50%;
+	width: 50%;
+	background-image: url(spot-light-background_1284-4685.jpg);
+	background-position: center;
+	background-size: cover;
+	padding-left: 5%;
+	padding-right: 5%;
+	box-sizing: border-box;
+	position: relative;
+}
+
+
+
+
